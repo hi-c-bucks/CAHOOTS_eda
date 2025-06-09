@@ -7,7 +7,7 @@ This project analyzes the proportion of CAD calls in Eugene, Oregon that were di
 - `cahoots_proj.ipynb`: Notebook for data cleaning and analysis.
 
 ## Setup & Dependencies
-This project was written in **Python 3.9+** using Jupyter Notebook. The following Python libraries are used:
+This project was written using Jupyter Notebook. The following Python libraries are used:
 
 - `pandas`
 - `numpy`
