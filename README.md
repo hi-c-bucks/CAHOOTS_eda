@@ -19,6 +19,6 @@ This project was written using Jupyter Notebook. The following Python libraries 
 All packages can be installed using pip if needed:
 ```bash
 pip install pandas numpy matplotlib seaborn statsmodels scikit-learn
-
+'''
 ## How to Run
 This project can be run from the top cell through the bottom given the packages specified above are installed on the machine.
