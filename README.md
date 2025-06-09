@@ -1,12 +1,10 @@
 # CAHOOTS Diversion Analysis
 
 ## Overview
-This project analyzes the proportion of public safety calls in Eugene, Oregon that were diverted from police to the CAHOOTS crisis response team. The goal is to understand how this proportion changed over time, particularly before and after the onset of COVID-19.
+This project analyzes the proportion of CAD calls in Eugene, Oregon that were diverted from Eugene PD to CAHOOTS. The goal is to understand what the value of the proportion is and how this proportion changed over time, particularly before and after the onset of COVID-19.
 
 ## Project Structure
-- `cahoots_proj.ipynb`: Main notebook for data cleaning, transformation, and analysis.
-- `data/`: Folder containing the call data (not included here due to size).
-- `figures/`: Contains exported plots for presentation.
+- `cahoots_proj.ipynb`: Notebook for data cleaning and analysis.
 
 ## Setup & Dependencies
 This project was written in **Python 3.9+** using Jupyter Notebook. The following Python libraries are used:
